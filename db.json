@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "numberInp": "5473884578",
+      "id": 7,
+      "phone": "",
+      "numverInp": "2112211"
+    },
+    {
+      "name": "Sasuke",
+      "surname": "Uchiha",
+      "numberInp": "6437824736",
+      "id": 8
+    },
+    {
+      "name": "Uzumaki",
+      "surname": "Naruto",
+      "numberInp": "5684935868",
+      "id": 9
+    },
+    {
+      "name": "Itachi",
+      "surname": "Uchiha",
+      "numberInp": "6543376543",
+      "id": 10
+    },
+    {
+      "name": "Uchiha",
+      "surname": "Obito",
+      "numberInp": "765432",
+      "id": 11
+    },
+    {
+      "name": "Bektur",
+      "surname": "Maasaliev",
+      "numberInp": "996770667912",
+      "id": 12
+    }
+  ]
+}

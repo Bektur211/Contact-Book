@@ -1,3 +1,4 @@
+$(document).ready(function(){
 let nameInp = $('.name-input');
 let surNameInp = $('.surname-input');
 let numberInp = $('.number-input');
@@ -141,3 +142,4 @@ function render(){
     })
     render()
 
+})
